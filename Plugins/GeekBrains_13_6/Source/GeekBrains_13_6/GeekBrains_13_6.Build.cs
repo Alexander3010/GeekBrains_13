@@ -37,7 +37,7 @@ public class GeekBrains_13_6 : ModuleRules
 				"CoreUObject",
 				"Engine",
 				"Slate",
-				"SlateCore", "EditorScriptingUtilities",
+				"SlateCore", "EditorScriptingUtilities", "Blutility"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
